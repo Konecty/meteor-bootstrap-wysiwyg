@@ -1,6 +1,6 @@
 Package.describe({
-    name: 'bootstrap-wysiwyg',
-    summary: 'bootstrap-wysiwyg',
+    name: 'konecty:bootstrap-wysiwyg',
+    summary: 'konecty:bootstrap-wysiwyg',
     version: '1.0.0',
     git: 'https://github.com/Konecty/meteor-bootstrap-wysiwyg.git'
 });
