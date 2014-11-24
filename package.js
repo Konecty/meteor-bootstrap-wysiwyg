@@ -8,7 +8,7 @@ Package.describe({
 Package.onUse(function(api) {
     api.versionsFrom('1.0');
     api.addFiles([
-        'bootstrap-wysiwyg/external/jquery.hotkeys.js',
-        'bootstrap-wysiwyg/bootstrap-wysiwyg.js'
+        'bootstrap-wysiwyg3/src/bootstrap3-wysihtml5.js',
+        'bootstrap-wysiwyg3/src/bootstrap3-wysihtml5.css',
     ], 'client');
 });
