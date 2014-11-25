@@ -1,6 +1,3 @@
-[submodule "bootstrap-wysiwyg"]
-	path = bootstrap-wysiwyg
-	url = git@github.com:mindmup/bootstrap-wysiwyg.git
-[submodule "bootstrap3-wysiwyg"]
-	path = bootstrap3-wysiwyg
-	url = https://github.com/bootstrap-wysiwyg/bootstrap3-wysiwyg.git
+[submodule "summernote"]
+	path = summernote
+	url = https://github.com/HackerWins/summernote.git
